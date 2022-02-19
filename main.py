@@ -8,5 +8,5 @@ try:
   print("thanks for using our generator,please see your project files for the QR code.(Link.png)")  # final message
 # if an error is detected
 except:
-    print("An unknown error ocurred during processing your QRcode,plese contact support.")
+    print("An unknown error ocurred during processing your QRcode,please contact support.")
 
