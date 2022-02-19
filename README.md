@@ -2,6 +2,6 @@
 A simple qrCode generator in Python
 
 # Base version
-This is the base version of the qrCode generator.Imma make it more complex in the future.Have some suggestions? 
+Hello, this is the 2nd version of the QRcode Generator.Run it on an IDE, don't forget to install the qrcode package.Have some suggestions? 
 
 # Don't hesitate to contact me via email or discord!(see my profile)
